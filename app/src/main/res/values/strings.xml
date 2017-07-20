@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    
+    <!-- strings for the  $ preset spinners -->
+    <string-array name="categories">
+        <item> School </item>
+        <item> Work </item>
+        <item> Free-Time </item>
+        <item> Bills </item>
+    </string-array>
+</resources>
